@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chapter1" />
-        <module name="utils" />
         <module name="echo-client" />
         <module name="echo-server" />
+        <module name="utils" />
       </profile>
     </annotationProcessing>
   </component>
